@@ -13,5 +13,5 @@
             fclose($handle);
         }
         print_r($matches);
-}
+    }
 ?>
